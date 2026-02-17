@@ -1,0 +1,5 @@
+{
+  "name": "BaseQuest",
+  "description": "Daily onchain quests on Base. Earn points, build streaks, and collect rewards.",
+  "requestFramePermissions": []
+}
